@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class FindCombination {
 	public static void main(String[] args) {
 		ArrayList<ArrayList<Integer>> result = new ArrayList<>();
-		int array[] = { 2, 3, 6, 7 };
+		int array[] = { 2,3,6,7 };
 		int index = 0;
 		int length = array.length;
 		int target = 7;
